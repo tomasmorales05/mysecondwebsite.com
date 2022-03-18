@@ -1,0 +1,22 @@
+body{
+
+    background-color:coral; 
+    font-family: 'roboto', sans-serif; 
+}
+h2,h3,p,h1{
+    text-align:center
+
+}
+
+h1,{    color: blue;
+   font-size: 40px; 
+}
+h1{
+    color:blue;
+}
+div h4{
+    color: aqua;
+}
+#especial{
+    color: pink;
+}
